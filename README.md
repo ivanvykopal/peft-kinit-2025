@@ -12,7 +12,8 @@
 
 ### Examples overview
 
-| Topic | Google Colab | Jupyter Notebook |
-| --- | --- | --- |
-| Sequential adapter | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ivanvykopal/peft-kinit-2025/blob/master/examples/adapters/01_Adapter_Training.ipynb) | [Adapter Training](https://github.com/ivanvykopal/peft-kinit-2025/blob/master/examples/adapters/01_Adapter_Training.ipynb) |
-| Cross-lingual Transfer | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ivanvykopal/peft-kinit-2025/blob/master/examples/adapters/02_Cross_Lingual_Transfer.ipynb) | [Cross-lingual Transfer](https://github.com/ivanvykopal/peft-kinit-2025/blob/master/examples/adapters/02_Cross_Lingual_Transfer.ipynb) |
+| Topic | Google Colab | Jupyter Notebook | Library |
+| --- | --- | --- | --- |
+| Sequential adapter | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ivanvykopal/peft-kinit-2025/blob/master/examples/adapters/01_Adapter_Training.ipynb) | [Adapter Training](https://github.com/ivanvykopal/peft-kinit-2025/blob/master/examples/adapters/01_Adapter_Training.ipynb) | _Adapters_ |
+| Cross-lingual Transfer | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ivanvykopal/peft-kinit-2025/blob/master/examples/adapters/02_Cross_Lingual_Transfer.ipynb) | [Cross-lingual Transfer](https://github.com/ivanvykopal/peft-kinit-2025/blob/master/examples/adapters/02_Cross_Lingual_Transfer.ipynb) | _Adapters_ |
+| QLoRA | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ivanvykopal/peft-kinit-2025/blob/master/examples/adapters/03_QLoRA_Llama.ipynb) | [QLoRA Llama](https://github.com/ivanvykopal/peft-kinit-2025/blob/master/examples/adapters/03_QLoRA_Llama.ipynb) | _Adapters_ |
