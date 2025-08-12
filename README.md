@@ -20,3 +20,9 @@
 | Adapter Fusion | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ivanvykopal/peft-kinit-2025/blob/master/examples/adapters/04_Adapter_Fusion.ipynb) | [Adapter Fusion](https://github.com/ivanvykopal/peft-kinit-2025/blob/master/examples/adapters/04_Adapter_Fusion.ipynb) | _Adapters_ |
 | LoRA Seq2Seq | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ivanvykopal/peft-kinit-2025/blob/master/examples/peft/01_LoRA_seq2seq.ipynb) | [LoRA Seq2Seq](https://github.com/ivanvykopal/peft-kinit-2025/blob/master/examples/peft/01_LoRA_seq2seq.ipynb) | _PEFT_ |
 | FFT Classification | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ivanvykopal/peft-kinit-2025/blob/master/examples/unsloth/01_classification.ipynb) | [FFT Classification](https://github.com/ivanvykopal/peft-kinit-2025/blob/master/examples/unsloth/01_classification.ipynb) | _Unsloth_ |
+
+### Notebooks for practice
+
+| Topic | Google Colab | Jupyter Notebook | Library |
+| --- | --- | --- | --- |
+| Qwen LoRA | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ivanvykopal/peft-kinit-2025/blob/master/practice/01_peft_lora_autoregressive.ipynb) | [Adapter Training](https://github.com/ivanvykopal/peft-kinit-2025/blob/master/practice/01_peft_lora_autoregressive.ipynb) | _PEFT_ |
