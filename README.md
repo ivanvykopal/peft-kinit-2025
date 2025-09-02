@@ -26,4 +26,4 @@
 
 | Topic | Google Colab | Jupyter Notebook | Library |
 | --- | --- | --- | --- |
-| Qwen LoRA | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ivanvykopal/peft-kinit-2025/blob/master/practice/01_peft_lora_autoregressive.ipynb) | [Adapter Training](https://github.com/ivanvykopal/peft-kinit-2025/blob/master/practice/01_peft_lora_autoregressive.ipynb) | _PEFT_ |
+| Qwen LoRA | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ivanvykopal/peft-kinit-2025/blob/master/practice/01_peft_lora_autoregressive.ipynb) | [Qwen2.5 LoRA](https://github.com/ivanvykopal/peft-kinit-2025/blob/master/practice/01_peft_lora_autoregressive.ipynb) | _PEFT_ |
